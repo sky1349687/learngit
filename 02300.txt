@@ -3,4 +3,8 @@ dsfsdfxxxxx------------------
 www.githu
 computer
 githut2
+<<<<<<< HEAD
 githut3
+=======
+sdfsdfsf111111111111111111111
+>>>>>>> dev
